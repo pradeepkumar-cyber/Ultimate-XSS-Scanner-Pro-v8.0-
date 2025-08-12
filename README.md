@@ -34,7 +34,7 @@ for **ethical hackers, penetration testers, and bug bounty hunters**.
 ## ⚙️ Quick Install (Copy & Paste)
 ```bash
 # 1. Clone the tool
-git clone https://github.com/yourusername/ultimate-xss-scanner-pro.git
+git clone https://github.com/pradeepkumar-cyber/Ultimate-XSS-Scanner-Pro-v8.0-.git
 cd ultimate-xss-scanner-pro
 
 # 2. Install Python dependencies
@@ -70,7 +70,7 @@ python3 xss_scanner.py example.com
 python3 xss_scanner.py example.com
 
 
-#Full Scan (with subdomain enumeration)
+Full Scan (with subdomain enumeration)
 ```bash
 python3 xss_scanner.py example.com --full
 
